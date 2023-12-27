@@ -5,4 +5,8 @@ public class HelloWorld{
 	public void sum(){
 		system.out.println("just be calm");
 	}
+	public void runn(){
+		system.out.println("just be calm");
+	}
+	
 }

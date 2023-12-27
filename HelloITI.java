@@ -6,4 +6,7 @@ public class HelloITI{
 	public void print(){
 		system.out.println("hello git");
 	}
+	public void AddFunction(){
+		system.out.println("hello remote");
+	}
 }
